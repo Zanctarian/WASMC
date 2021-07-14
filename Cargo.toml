@@ -1,0 +1,7 @@
+[package]
+name = "WASMC"
+version = "0.1.0"
+authors = ["Zanctarian"]
+edition = "2018"
+
+[dependencies]
